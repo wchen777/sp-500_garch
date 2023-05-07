@@ -1,1 +1,1 @@
-Bayesian Analysis of S&P 500 Returns - GARCH model
+# Bayesian Analysis of S&P 500 Returns - GARCH model
